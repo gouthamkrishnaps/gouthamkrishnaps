@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋,Its me Goutham Krishna P S</h1>
 <h3 align="center">I'm a passionate MEARN stack developer with a keen interest in creating robust and scalable web applications. My journey in the world of web development has equipped me with skills in MongoDB, Express.js, React/Angular, and Node.js.</h3>
-<img align="left" height="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
+<img align="right" height="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gouthamkrishnaps&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamkrishnaps" /> </p>
+<div align="left>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthamkrishnaps&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamkrishnaps" /> </p>
 
 - 🔭 I’m currently working on **Movifydotcom**
 
@@ -11,6 +12,8 @@
 - 💬 Ask me about **React , Angular , Node , Express , MongoDB , HTML5 , CSS , Bootstrap**
 
 - 📫 How to reach me **gouthamkrishnaps02@gmail.com**
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
