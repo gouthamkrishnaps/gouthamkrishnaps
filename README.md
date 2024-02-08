@@ -1,8 +1,25 @@
-<h1 align="center">Hi 👋,Its me Goutham Krishna </h1>
-<p align="left">I'm a passionate MEARN stack developer with a keen interest in creating robust and scalable web applications. My journey in the world of web development has equipped me with skills in MongoDB, Express.js, React/Angular, and Node.js.</p>
+<h1 align="center">Hi 👋,Its me Goutham Krishna P S</h1>
+<h3 align="center">I'm a passionate MEARN stack developer with a keen interest in creating robust and scalable web applications. My journey in the world of web development has equipped me with skills in MongoDB, Express.js, React/Angular, and Node.js.</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthamkrishnaps&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamkrishnaps" /> </p>
 
+- 🔭 I’m currently working on **Movifydotcom**
+
+- 🌱 I’m currently learning **MEARN STACK**
+
+- 💬 Ask me about **React , Angular , Node , Express , MongoDB , HTML5 , CSS , Bootstrap**
+
+- 📫 How to reach me **gouthamkrishnaps02@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itzmegouthamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmegouthamm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gouthamkrishnaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gouthamkrishnaps" height="30" width="40" /></a>
+<a href="https://fb.com/goutham krishna ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goutham krishna ps" height="30" width="40" /></a>
+<a href="https://instagram.com/itzmegoutham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzmegoutham" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -41,18 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouthamkrishnaps&show_icons=true&locale=en&layout=compact" alt="gouthamkrishnaps" /></p>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouthamkrishnaps&show_icons=true&locale=en" alt="gouthamkrishnaps" /></p>
 
-###
-
-<img align="right" height="198" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamkrishnaps&" alt="gouthamkrishnaps" /></p>
