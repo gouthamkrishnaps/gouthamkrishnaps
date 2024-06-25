@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MEARN STACK**
 
-- 💬 Ask me about **React , Angular , Node , Express , MongoDB , HTML5 , CSS , Bootstrap**
+- 💬 Ask me about **React , Angular , Node , Express , MongoDB , HTML5 , CSS , Bootstrap , Tailwindcss**
 
 - 📫 How to reach me **gouthamkrishnaps02@gmail.com**
 </div>
