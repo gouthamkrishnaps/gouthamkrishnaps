@@ -5,11 +5,11 @@
 <div align="left>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthamkrishnaps&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamkrishnaps" /> </p>
 
-- 🔭 I’m currently working on **Movifydotcom**
+- 🔭 I’m currently working on **mydearpa.com**
 
-- 🌱 I’m currently learning **MEARN STACK**
+- 🌱 I’m currently learning **Next-js**
 
-- 💬 Ask me about **React , Angular , Node , Express , MongoDB , HTML5 , CSS , Bootstrap , Tailwindcss**
+- 💬 Ask me about **Nextjs , React , Angular , Node , Express , MongoDB , HTML5 , CSS , Bootstrap , Tailwindcss**
 
 - 📫 How to reach me **gouthamkrishnaps02@gmail.com**
 </div>
