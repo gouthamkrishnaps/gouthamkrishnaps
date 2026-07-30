@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B+I'm+Goutham+Krishna+P+S;Software+%26+MERN+Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Goutham Krishna P S</h1>
+<h3 align="center">💻 Software & Full-Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/gouthamkrishnaps"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
