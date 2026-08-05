@@ -18,7 +18,6 @@
 
 I am a dedicated **Software Developer** specializing in building modern, performant, and scalable web applications across the full stack.
 
-* 🔭 **Currently Building:** [mydearpa.com](https://mydearpa.com)
 * 🌱 **Currently Deep-Diving:** Advanced Next.js Architecture & Performance
 * 💬 **Ask Me About:** Next.js, React, Node.js, Express, MongoDB, TypeScript, & Tailwind CSS
 * 📫 **Contact Me:** `gouthamkrishnaps02@gmail.com`
